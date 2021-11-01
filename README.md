@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vscalligraphia a professional computer programmer
 - 👀 I’m interested in Computer Programming language
-- 🌱 I’m currently learning Python And Linux Language
+- 🌱 I’m currently learning JAVA,ANGULAR, KAFKA And Linux Language
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me : email me @vishusaini251999@gmail.com
 
